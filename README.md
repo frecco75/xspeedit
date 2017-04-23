@@ -1,6 +1,8 @@
 XspeedIt
 ========
 
+[![Build Status](https://travis-ci.org/frecco75/xspeedit.svg?branch=master)](https://travis-ci.org/frecco75/xspeedit)
+
 ### Required configuration ###
 * JDK 1.7 or above
 * Maven 3
