@@ -3,3 +3,5 @@ jdk:
   - oraclejdk7
 sudo: false
 install: mvn clean install
+script: mvn clean verify
+after_script: mvn cobertura:cobertura coveralls:report
