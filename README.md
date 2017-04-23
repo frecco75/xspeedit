@@ -1,7 +1,7 @@
 XspeedIt
 ========
 
-[![Build Status](https://travis-ci.org/frecco75/xspeedit.svg?branch=master)](https://travis-ci.org/frecco75/xspeedit) [![Coverage Status](https://coveralls.io/repos/github/frecco75/xspeedit/badge.svg?branch=master)](https://coveralls.io/github/frecco75/xspeedit?branch=master)
+[![Build Status](https://travis-ci.org/frecco75/xspeedit.svg?branch=master)](https://travis-ci.org/frecco75/xspeedit) [![Coverage Status](https://coveralls.io/repos/github/frecco75/xspeedit/badge.svg?branch=master)](https://coveralls.io/github/frecco75/xspeedit?branch=master) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fbfa77766af04a74ac747ee2f0be0219)](https://www.codacy.com/app/fabien-recco/xspeedit?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=frecco75/xspeedit&amp;utm_campaign=Badge_Grade)
 
 ### Required configuration ###
 * JDK 1.7 or above
