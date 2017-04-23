@@ -1,7 +1,7 @@
 XspeedIt
 ========
 
-[![Build Status](https://travis-ci.org/frecco75/xspeedit.svg?branch=master)](https://travis-ci.org/frecco75/xspeedit)
+[![Build Status](https://travis-ci.org/frecco75/xspeedit.svg?branch=master)](https://travis-ci.org/frecco75/xspeedit) [![Coverage Status](https://coveralls.io/repos/github/frecco75/xspeedit/badge.svg?branch=master)](https://coveralls.io/github/frecco75/xspeedit?branch=master)
 
 ### Required configuration ###
 * JDK 1.7 or above
